@@ -6,7 +6,7 @@ ABSTRACT: Genes encoding lipid A modifying phosphoethanolamine (pEtN) transferas
 
 DESCRIPTION OF FILES:
 
-"AUC_western_FLAG.csv" - Area under the curves for canonical FLAG-tagged PETs (from western blots) and total proteins for the same samples (from SDS page gels)
+"AUC_western_FLAG.csv" - Area under the curves for canonical FLAG-tagged PETs (from western blots), estimated total proteins for the same samples (from SDS page gels), and calculated protein level
 
 "CFU_counts_canonical_PETs.csv" - Cell viability concentrations (CFU/mL) at different timepoints after induction with different L-arabinose concentrations for canonical PET variants (EptA, MCR-1, MCR-3, MCR-9) and the empty vector control ("EV")
 
